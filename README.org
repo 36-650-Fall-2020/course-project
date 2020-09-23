@@ -8,3 +8,11 @@ to get the Git URL for this repository. In your command line, navigate to the
 folder you'd like to place your assignments in, then run =git clone
 https://github.com...=, filling in the URL provided. This will create a folder
 containing these files.
+
+Your Source Code should be located under src folder.
+
+Update the checklist document under docs folder
+
+Add your datasets under data folder
+
+In this ReadMe, append screenshots, documentation, and other requirements
