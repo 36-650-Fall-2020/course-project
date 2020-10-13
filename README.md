@@ -9,5 +9,3 @@ In this repository, you'll work on your homework assignments and submit your com
 2. Update the checklist document under docs folder
 3. Add your datasets under data folder
 4. In this ReadMe, append screenshots, documentation, and other requirements
-
-![alt](https://github.com/36-650/assignment-template/blob/master/screenshot.png)
